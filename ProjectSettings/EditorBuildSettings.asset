@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Debug WebLocationChecker/Debug Web Location Checker.unity
     guid: d3550e40b6a5b1d4f822ef95287b5c1b
+  - enabled: 1
+    path: Assets/Test Redirect/Test Redirect.unity
+    guid: 2ccad22be39991e42af13f898ca4041e
   m_configObjects: {}
